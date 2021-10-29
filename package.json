@@ -1,0 +1,26 @@
+{
+  "name": "backend-clg-shortlist",
+  "version": "1.0.0",
+  "description": "This project is in the form of python script in jupyter notbook, with the help of this you can scrape previous year data from JOSAA website in CSV form or you can Check possible colleges that you can get based on your JEE Mains/Advance rank in India. For both the purposes their is seperate jupyter notebook which you can use as per your requirement.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravk268/josaa-scrape.git"
+  },
+  "author": "gauravk268",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gauravk268/josaa-scrape/issues"
+  },
+  "homepage": "https://github.com/gauravk268/josaa-scrape#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.12"
+  }
+}

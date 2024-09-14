@@ -2,7 +2,7 @@
 
 This project is in the form of python script in jupyter notbook, with the help of this you can scrape previous year data from JOSAA website in CSV form or you can Check possible colleges that you can get based on your JEE Mains/Advance rank in India. For both the purposes their is seperate jupyter notebook which you can use as per your requirement.
 
-Previous years data [2016-2020] from the JOSAA archive is also present under the data directory for direct access.
+Previous years data [2016-2024] from the JOSAA archive is also present under the data directory for direct access.
 
 Features
 --------
